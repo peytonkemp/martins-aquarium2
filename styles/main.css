@@ -9,16 +9,17 @@ body {
 
 .bodyHeader {
     text-align: center;
+    background-color: rgb(132, 184, 185);
 }
 
 .container {
     display: flex;
-    padding: 3rem;
+    padding: 1rem;
 }
 
-.bordered {
+/* .bordered {
     border: 1px solid red;
-}
+} */
 
 .bottom-space {
     margin-bottom: 3rem;
@@ -28,3 +29,6 @@ body {
     flex: 3;
 }
 
+html {
+    background-color: cadetblue;
+}
