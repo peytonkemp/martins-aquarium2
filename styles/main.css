@@ -1,0 +1,30 @@
+@import "./tips.css";
+@import "./locations.css";
+@import "./quotes.css";
+@import "./fishes.css";
+
+body {
+    font-family: 'Londrina Solid', cursive;
+}
+
+.bodyHeader {
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    padding: 3rem;
+}
+
+.bordered {
+    border: 1px solid red;
+}
+
+.bottom-space {
+    margin-bottom: 3rem;
+}
+
+.flex-container-left {
+    flex: 3;
+}
+
