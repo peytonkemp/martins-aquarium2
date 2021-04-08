@@ -1,0 +1,11 @@
+.location__image {
+    max-height: 10rem;
+
+}
+
+.location {
+    border: 2px solid black;
+    display: flex;
+    flex-direction: column;
+    flex-basis: 20%;
+}

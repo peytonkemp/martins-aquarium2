@@ -1,0 +1,10 @@
+.fish__image {
+    max-height: 10rem;
+}
+
+.fish {
+    border: 2px solid black;
+    display: flex;
+    flex-direction: column;
+    flex-basis: 20%;
+}
